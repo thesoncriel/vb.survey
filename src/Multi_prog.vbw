@@ -1,0 +1,16 @@
+frmBaseball = 0, 0, 0, 0, C, 44, 44, 599, 565, C
+MDIForm1 = 143, 107, 698, 628, C, 20, 41, 720, 661, C
+RndNumMdl = 154, 154, 709, 675, C
+frmBaseballHelp = 163, 128, 718, 649, C, 95, 62, 650, 583, C
+frmPersnal = 0, 0, 0, 0, C, 110, 110, 665, 631, C
+frmPersnalResult = 242, 242, 797, 763, Z, 132, 132, 687, 653, C
+FileDataPath = 220, 220, 775, 741, C
+frmLogIn = 0, 0, 0, 0, C, 22, 22, 577, 543, C
+frmLogin2 = 0, 0, 0, 0, C, 176, 176, 731, 697, C
+frmQnaEdit = 0, 0, 0, 0, C, 198, 198, 753, 719, C
+frmQnAmain0 = 0, 0, 0, 0, C, 220, 220, 775, 741, C
+frmQnAmain1 = 132, 132, 687, 653, C, 171, 145, 726, 666, C
+frmQnAmain2 = 0, 0, 555, 521, C, 0, 0, 555, 521, C
+frmQnAResult = 198, 198, 753, 719, C, 22, 22, 577, 543, C
+DataCleaner = 110, 110, 665, 631, C
+frmQnACustom = 132, 132, 687, 653, C, 22, 22, 577, 543, C
