@@ -8,3 +8,10 @@
 * 설문 에디터
 * 로그인 사용자 관리
 * 숫자 야구 게임
+
+## Licence
+MIT
+
+## Screen Shots
+![](https://github.com/thesoncriel/vb.survey/blob/master/screenshots/vb.survey001.jpg)
+![](https://github.com/thesoncriel/vb.survey/blob/master/screenshots/vb.survey002.jpg)
